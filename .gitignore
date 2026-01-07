@@ -1,0 +1,7 @@
+__pycache__/
+*.pyc
+.env
+logs/
+airflow.db
+postgres_data/
+data/
